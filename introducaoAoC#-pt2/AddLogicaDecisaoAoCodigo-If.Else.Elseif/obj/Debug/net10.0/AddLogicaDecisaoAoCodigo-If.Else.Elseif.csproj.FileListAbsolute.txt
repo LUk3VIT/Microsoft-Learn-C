@@ -1,0 +1,14 @@
+C:\C#\introducaoAoC#-pt2\AddLogicaDecisaoAoCodigo-If.Else.Elseif\obj\Debug\net10.0\AddLogicaDecisaoAoCodigo-If.Else.Elseif.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\introducaoAoC#-pt2\AddLogicaDecisaoAoCodigo-If.Else.Elseif\obj\Debug\net10.0\AddLogicaDecisaoAoCodigo-If.Else.Elseif.AssemblyInfoInputs.cache
+C:\C#\introducaoAoC#-pt2\AddLogicaDecisaoAoCodigo-If.Else.Elseif\obj\Debug\net10.0\AddLogicaDecisaoAoCodigo-If.Else.Elseif.AssemblyInfo.cs
+C:\C#\introducaoAoC#-pt2\AddLogicaDecisaoAoCodigo-If.Else.Elseif\obj\Debug\net10.0\AddLogicaDecisaoAoCodigo-If.Else.Elseif.csproj.CoreCompileInputs.cache
+C:\C#\introducaoAoC#-pt2\AddLogicaDecisaoAoCodigo-If.Else.Elseif\bin\Debug\net10.0\AddLogicaDecisaoAoCodigo-If.Else.Elseif.exe
+C:\C#\introducaoAoC#-pt2\AddLogicaDecisaoAoCodigo-If.Else.Elseif\bin\Debug\net10.0\AddLogicaDecisaoAoCodigo-If.Else.Elseif.deps.json
+C:\C#\introducaoAoC#-pt2\AddLogicaDecisaoAoCodigo-If.Else.Elseif\bin\Debug\net10.0\AddLogicaDecisaoAoCodigo-If.Else.Elseif.runtimeconfig.json
+C:\C#\introducaoAoC#-pt2\AddLogicaDecisaoAoCodigo-If.Else.Elseif\bin\Debug\net10.0\AddLogicaDecisaoAoCodigo-If.Else.Elseif.dll
+C:\C#\introducaoAoC#-pt2\AddLogicaDecisaoAoCodigo-If.Else.Elseif\bin\Debug\net10.0\AddLogicaDecisaoAoCodigo-If.Else.Elseif.pdb
+C:\C#\introducaoAoC#-pt2\AddLogicaDecisaoAoCodigo-If.Else.Elseif\obj\Debug\net10.0\AddLogicaDecisaoAoCodigo-If.Else.Elseif.dll
+C:\C#\introducaoAoC#-pt2\AddLogicaDecisaoAoCodigo-If.Else.Elseif\obj\Debug\net10.0\refint\AddLogicaDecisaoAoCodigo-If.Else.Elseif.dll
+C:\C#\introducaoAoC#-pt2\AddLogicaDecisaoAoCodigo-If.Else.Elseif\obj\Debug\net10.0\AddLogicaDecisaoAoCodigo-If.Else.Elseif.pdb
+C:\C#\introducaoAoC#-pt2\AddLogicaDecisaoAoCodigo-If.Else.Elseif\obj\Debug\net10.0\AddLogicaDecisaoAoCodigo-If.Else.Elseif.genruntimeconfig.cache
+C:\C#\introducaoAoC#-pt2\AddLogicaDecisaoAoCodigo-If.Else.Elseif\obj\Debug\net10.0\ref\AddLogicaDecisaoAoCodigo-If.Else.Elseif.dll

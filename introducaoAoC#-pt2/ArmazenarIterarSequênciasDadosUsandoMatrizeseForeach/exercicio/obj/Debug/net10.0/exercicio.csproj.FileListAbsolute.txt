@@ -1,0 +1,14 @@
+C:\C#\introducaoAoC#-pt2\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\exercicio\obj\Debug\net10.0\exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\introducaoAoC#-pt2\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\exercicio\obj\Debug\net10.0\exercicio.AssemblyInfoInputs.cache
+C:\C#\introducaoAoC#-pt2\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\exercicio\obj\Debug\net10.0\exercicio.AssemblyInfo.cs
+C:\C#\introducaoAoC#-pt2\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\exercicio\obj\Debug\net10.0\exercicio.csproj.CoreCompileInputs.cache
+C:\C#\introducaoAoC#-pt2\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\exercicio\bin\Debug\net10.0\exercicio.exe
+C:\C#\introducaoAoC#-pt2\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\exercicio\bin\Debug\net10.0\exercicio.deps.json
+C:\C#\introducaoAoC#-pt2\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\exercicio\bin\Debug\net10.0\exercicio.runtimeconfig.json
+C:\C#\introducaoAoC#-pt2\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\exercicio\bin\Debug\net10.0\exercicio.dll
+C:\C#\introducaoAoC#-pt2\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\exercicio\bin\Debug\net10.0\exercicio.pdb
+C:\C#\introducaoAoC#-pt2\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\exercicio\obj\Debug\net10.0\exercicio.dll
+C:\C#\introducaoAoC#-pt2\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\exercicio\obj\Debug\net10.0\refint\exercicio.dll
+C:\C#\introducaoAoC#-pt2\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\exercicio\obj\Debug\net10.0\exercicio.pdb
+C:\C#\introducaoAoC#-pt2\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\exercicio\obj\Debug\net10.0\exercicio.genruntimeconfig.cache
+C:\C#\introducaoAoC#-pt2\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\exercicio\obj\Debug\net10.0\ref\exercicio.dll
