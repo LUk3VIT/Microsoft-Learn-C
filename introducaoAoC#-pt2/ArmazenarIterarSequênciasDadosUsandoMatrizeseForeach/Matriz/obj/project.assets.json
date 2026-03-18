@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\introducaoAoC#-pt2\\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\\Matriz\\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach.csproj",
+      "projectUniqueName": "C:\\Repositorios\\Microsoft-Learn-C\\introducaoAoC#-pt2\\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\\Matriz\\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach.csproj",
       "projectName": "ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach",
-      "projectPath": "C:\\C#\\introducaoAoC#-pt2\\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\\Matriz\\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach.csproj",
+      "projectPath": "C:\\Repositorios\\Microsoft-Learn-C\\introducaoAoC#-pt2\\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\\Matriz\\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach.csproj",
       "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\introducaoAoC#-pt2\\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\\Matriz\\obj\\",
+      "outputPath": "C:\\Repositorios\\Microsoft-Learn-C\\introducaoAoC#-pt2\\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\\Matriz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config"

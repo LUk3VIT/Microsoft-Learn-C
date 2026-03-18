@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\introducaoAoC#-pt2\\AddLogicaDecisaoAoCodigo-If.Else.Elseif\\AddLogicaDecisaoAoCodigo-If.Else.Elseif.csproj": {}
+    "C:\\Repositorios\\Microsoft-Learn-C\\introducaoAoC#-pt2\\AddLogicaDecisaoAoCodigo-If.Else.Elseif\\AddLogicaDecisaoAoCodigo-If.Else.Elseif.csproj": {}
   },
   "projects": {
-    "C:\\C#\\introducaoAoC#-pt2\\AddLogicaDecisaoAoCodigo-If.Else.Elseif\\AddLogicaDecisaoAoCodigo-If.Else.Elseif.csproj": {
+    "C:\\Repositorios\\Microsoft-Learn-C\\introducaoAoC#-pt2\\AddLogicaDecisaoAoCodigo-If.Else.Elseif\\AddLogicaDecisaoAoCodigo-If.Else.Elseif.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\introducaoAoC#-pt2\\AddLogicaDecisaoAoCodigo-If.Else.Elseif\\AddLogicaDecisaoAoCodigo-If.Else.Elseif.csproj",
+        "projectUniqueName": "C:\\Repositorios\\Microsoft-Learn-C\\introducaoAoC#-pt2\\AddLogicaDecisaoAoCodigo-If.Else.Elseif\\AddLogicaDecisaoAoCodigo-If.Else.Elseif.csproj",
         "projectName": "AddLogicaDecisaoAoCodigo-If.Else.Elseif",
-        "projectPath": "C:\\C#\\introducaoAoC#-pt2\\AddLogicaDecisaoAoCodigo-If.Else.Elseif\\AddLogicaDecisaoAoCodigo-If.Else.Elseif.csproj",
+        "projectPath": "C:\\Repositorios\\Microsoft-Learn-C\\introducaoAoC#-pt2\\AddLogicaDecisaoAoCodigo-If.Else.Elseif\\AddLogicaDecisaoAoCodigo-If.Else.Elseif.csproj",
         "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\introducaoAoC#-pt2\\AddLogicaDecisaoAoCodigo-If.Else.Elseif\\obj\\",
+        "outputPath": "C:\\Repositorios\\Microsoft-Learn-C\\introducaoAoC#-pt2\\AddLogicaDecisaoAoCodigo-If.Else.Elseif\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config"

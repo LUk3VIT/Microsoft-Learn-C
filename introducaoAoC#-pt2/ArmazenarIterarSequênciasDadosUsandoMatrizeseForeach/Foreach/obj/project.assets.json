@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\introducaoAoC#-pt2\\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\\Foreach\\Foreach.csproj",
+      "projectUniqueName": "C:\\Repositorios\\Microsoft-Learn-C\\introducaoAoC#-pt2\\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\\Foreach\\Foreach.csproj",
       "projectName": "Foreach",
-      "projectPath": "C:\\C#\\introducaoAoC#-pt2\\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\\Foreach\\Foreach.csproj",
+      "projectPath": "C:\\Repositorios\\Microsoft-Learn-C\\introducaoAoC#-pt2\\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\\Foreach\\Foreach.csproj",
       "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\introducaoAoC#-pt2\\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\\Foreach\\obj\\",
+      "outputPath": "C:\\Repositorios\\Microsoft-Learn-C\\introducaoAoC#-pt2\\ArmazenarIterarSequênciasDadosUsandoMatrizeseForeach\\Foreach\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
