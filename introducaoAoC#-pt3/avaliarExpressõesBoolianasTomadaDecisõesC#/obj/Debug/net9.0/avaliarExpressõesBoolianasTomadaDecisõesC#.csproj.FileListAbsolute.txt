@@ -1,0 +1,5 @@
+C:\Microsoft-Learn-C\introducaoAoC#-pt3\avaliarExpressõesBoolianasTomadaDecisõesC#\obj\Debug\net9.0\avaliarExpressõesBoolianasTomadaDecisõesC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Microsoft-Learn-C\introducaoAoC#-pt3\avaliarExpressõesBoolianasTomadaDecisõesC#\obj\Debug\net9.0\avaliarExpressõesBoolianasTomadaDecisõesC#.AssemblyInfoInputs.cache
+C:\Microsoft-Learn-C\introducaoAoC#-pt3\avaliarExpressõesBoolianasTomadaDecisõesC#\obj\Debug\net9.0\avaliarExpressõesBoolianasTomadaDecisõesC#.AssemblyInfo.cs
+C:\Microsoft-Learn-C\introducaoAoC#-pt3\avaliarExpressõesBoolianasTomadaDecisõesC#\obj\Debug\net9.0\avaliarExpressõesBoolianasTomadaDecisõesC#.csproj.CoreCompileInputs.cache
+C:\Microsoft-Learn-C\introducaoAoC#-pt3\avaliarExpressõesBoolianasTomadaDecisõesC#\obj\Debug\net9.0\avaliarExpressõesBoolianasTomadaDecisõesC#.sourcelink.json
