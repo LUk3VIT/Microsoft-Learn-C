@@ -1,0 +1,15 @@
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\iterarPorMeioDeUmaIntrucaoFor\bin\Debug\net10.0\iterarPorMeioDeUmaIntrucaoFor.exe
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\iterarPorMeioDeUmaIntrucaoFor\bin\Debug\net10.0\iterarPorMeioDeUmaIntrucaoFor.deps.json
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\iterarPorMeioDeUmaIntrucaoFor\bin\Debug\net10.0\iterarPorMeioDeUmaIntrucaoFor.runtimeconfig.json
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\iterarPorMeioDeUmaIntrucaoFor\bin\Debug\net10.0\iterarPorMeioDeUmaIntrucaoFor.dll
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\iterarPorMeioDeUmaIntrucaoFor\bin\Debug\net10.0\iterarPorMeioDeUmaIntrucaoFor.pdb
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\iterarPorMeioDeUmaIntrucaoFor\obj\Debug\net10.0\iterarPorMeioDeUmaIntrucaoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\iterarPorMeioDeUmaIntrucaoFor\obj\Debug\net10.0\iterarPorMeioDeUmaIntrucaoFor.AssemblyInfoInputs.cache
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\iterarPorMeioDeUmaIntrucaoFor\obj\Debug\net10.0\iterarPorMeioDeUmaIntrucaoFor.AssemblyInfo.cs
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\iterarPorMeioDeUmaIntrucaoFor\obj\Debug\net10.0\iterarPorMeioDeUmaIntrucaoFor.csproj.CoreCompileInputs.cache
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\iterarPorMeioDeUmaIntrucaoFor\obj\Debug\net10.0\iterarPorMeioDeUmaIntrucaoFor.sourcelink.json
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\iterarPorMeioDeUmaIntrucaoFor\obj\Debug\net10.0\iterarPorMeioDeUmaIntrucaoFor.dll
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\iterarPorMeioDeUmaIntrucaoFor\obj\Debug\net10.0\refint\iterarPorMeioDeUmaIntrucaoFor.dll
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\iterarPorMeioDeUmaIntrucaoFor\obj\Debug\net10.0\iterarPorMeioDeUmaIntrucaoFor.pdb
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\iterarPorMeioDeUmaIntrucaoFor\obj\Debug\net10.0\iterarPorMeioDeUmaIntrucaoFor.genruntimeconfig.cache
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\iterarPorMeioDeUmaIntrucaoFor\obj\Debug\net10.0\ref\iterarPorMeioDeUmaIntrucaoFor.dll

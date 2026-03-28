@@ -1,0 +1,15 @@
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\ramificarFluxoCodigoUsandoSwitchCase\bin\Debug\net10.0\ramificarFluxoCodigoUsandoSwitchCase.exe
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\ramificarFluxoCodigoUsandoSwitchCase\bin\Debug\net10.0\ramificarFluxoCodigoUsandoSwitchCase.deps.json
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\ramificarFluxoCodigoUsandoSwitchCase\bin\Debug\net10.0\ramificarFluxoCodigoUsandoSwitchCase.runtimeconfig.json
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\ramificarFluxoCodigoUsandoSwitchCase\bin\Debug\net10.0\ramificarFluxoCodigoUsandoSwitchCase.dll
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\ramificarFluxoCodigoUsandoSwitchCase\bin\Debug\net10.0\ramificarFluxoCodigoUsandoSwitchCase.pdb
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\ramificarFluxoCodigoUsandoSwitchCase\obj\Debug\net10.0\ramificarFluxoCodigoUsandoSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\ramificarFluxoCodigoUsandoSwitchCase\obj\Debug\net10.0\ramificarFluxoCodigoUsandoSwitchCase.AssemblyInfoInputs.cache
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\ramificarFluxoCodigoUsandoSwitchCase\obj\Debug\net10.0\ramificarFluxoCodigoUsandoSwitchCase.AssemblyInfo.cs
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\ramificarFluxoCodigoUsandoSwitchCase\obj\Debug\net10.0\ramificarFluxoCodigoUsandoSwitchCase.csproj.CoreCompileInputs.cache
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\ramificarFluxoCodigoUsandoSwitchCase\obj\Debug\net10.0\ramificarFluxoCodigoUsandoSwitchCase.sourcelink.json
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\ramificarFluxoCodigoUsandoSwitchCase\obj\Debug\net10.0\ramificarFluxoCodigoUsandoSwitchCase.dll
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\ramificarFluxoCodigoUsandoSwitchCase\obj\Debug\net10.0\refint\ramificarFluxoCodigoUsandoSwitchCase.dll
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\ramificarFluxoCodigoUsandoSwitchCase\obj\Debug\net10.0\ramificarFluxoCodigoUsandoSwitchCase.pdb
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\ramificarFluxoCodigoUsandoSwitchCase\obj\Debug\net10.0\ramificarFluxoCodigoUsandoSwitchCase.genruntimeconfig.cache
+C:\Repositorios\Microsoft-Learn-C\introducaoAoC#-pt3\ramificarFluxoCodigoUsandoSwitchCase\obj\Debug\net10.0\ref\ramificarFluxoCodigoUsandoSwitchCase.dll
